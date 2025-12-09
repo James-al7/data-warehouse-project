@@ -26,7 +26,7 @@ prd_cost INT,
 prd_line NVARCHAR(5),
 prd_start_dt DATE,	
 prd_end_dt DATE
-)
+);
 
 CREATE TABLE bronze.crm_sales_details (
 
